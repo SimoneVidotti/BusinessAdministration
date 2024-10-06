@@ -15,10 +15,10 @@ to learn and implement Python programming for various business-related tasks.
 * Excel or Libreoffice-calc
 
 ## Install python prerequisites
-```pip install numpy matplotlib pandas openpyxl pillow```
+$ ```pip install numpy matplotlib pandas openpyxl pillow```
 
 ## Installation
-```git clone https://github.com/SimoneVidotti/BusinessAdministration.git```
+$ ```git clone https://github.com/SimoneVidotti/BusinessAdministration.git```
 
 ## License
 This repository is licensed under the MIT License.
