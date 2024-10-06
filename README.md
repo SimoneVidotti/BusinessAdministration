@@ -1,7 +1,7 @@
 # BusinessAdministration
 
 ## Description
-This repository contains a collection of Python scripts, notebooks, and projects focused on business administration. 
+This repository contains a collection of Python scripts focused on business administration. 
 The goal of this repository is to provide a comprehensive resource for business administrators, analysts, and students 
 to learn and implement Python programming for various business-related tasks.
 
